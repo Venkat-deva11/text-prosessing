@@ -1,0 +1,8 @@
+ham	Hello, how are you?
+ham	I am going to the market233.
+spam	Congratulations! You won a free ticket.
+ham	Are we meeting today?
+spam	Claim your free prize now!
+ham	Please call me later.
+spam	You have been selected for a $1000 gift card.
+ham	Can we have lunch tomorrow?
